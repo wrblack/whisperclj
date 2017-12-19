@@ -1,0 +1,23 @@
+html, body {
+  background-color: #252120;
+}
+
+h1.title, h2.subtitle, p {
+  color: #E5DFC5;
+}
+
+nav.navbar.is-transparent {
+  background-color: #252120;
+}
+
+a.navbar-item {
+  color: #E5DFC5;
+}
+
+input.input, textarea.textarea {
+  background-color: #E5DFC5;
+}
+
+button.button.is-link {
+  background-color: #848375;
+}
